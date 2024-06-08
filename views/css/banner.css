@@ -1,0 +1,47 @@
+.banner{
+    position: relative;
+    width: 100%;
+}
+
+.slide{
+    position: absolute;
+    top: 290px;
+}
+
+.slide i{
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    padding: 12px;
+}
+.slide button{
+    background: none;
+    border: none;
+}
+.slide .truoc i{
+    margin-left: 10px;
+    margin-right: 1430px;
+}
+
+.baner-2{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.banner-1{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 500px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.banner-1 img{
+    height: 400px;
+}
+.banner-2{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

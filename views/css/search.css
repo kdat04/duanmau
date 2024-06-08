@@ -1,0 +1,27 @@
+
+
+.search-sp{
+    position: relative;
+    text-align: center;
+}
+
+.search-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search-icon input{
+    padding: 10px;
+    height: 40px;
+    width: 500px;
+    border-radius: 10px;
+}
+.search-icon button{
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.form-sanpham{
+    background-color: white;
+}
